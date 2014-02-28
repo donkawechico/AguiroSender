@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AguiroSender</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings1">Settings1</string>
+    <string name="action_settings2">Settings2</string>
+    <string name="action_settings3">Settings3</string>
+
+</resources>

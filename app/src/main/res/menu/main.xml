@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.aguiro.aguirosender.MainActivity" >
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings1"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/media_route_menu_item"
+        android:icon="@drawable/ic_media_route_off_holo_dark"
+        android:orderInCategory="300"
+        app:actionProviderClass="android.support.v7.app.MediaRouteActionProvider"
+        app:showAsAction="always"/>
+
+</menu>
